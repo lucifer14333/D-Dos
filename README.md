@@ -10,8 +10,27 @@ This repository demonstrates a **Distributed Denial of Service (DDoS) attack** s
 - Educational tool for learning about **network security**  
 
 ## Installation
+How To Install GAMKERS-DDOS In Termux
+The Tool Installation Process Is Very Easy.. Just Open Your Termux & Type This Provided Commands!!
 
-#bash
+$ apt update && apt upgrade
+
+$ pkg install python
+
+$ pkg install python2
+
+$ pkg install git
+
+$ pkg install figlet
+
+$ git clone https://github.com/gamkers/GAMKERS-DDOS.git
+
+$ cd Lucifer-DDOS
+
+$ chmod +x Lucifer-DDOS.py
+
+$ python2 Lucifer-DDOS.py
+
 # Clone the repo
 git clone https://github.com/lucifer14333/D-Dos.git
 
@@ -19,4 +38,4 @@ git clone https://github.com/lucifer14333/D-Dos.git
 cd d-ddos
 
 # Run the simulation
-python3 d.ddos.py
+python3 Lucifer-DDOS.py
