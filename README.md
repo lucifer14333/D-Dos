@@ -13,7 +13,7 @@ This repository demonstrates a **Distributed Denial of Service (DDoS) attack** s
 
 #bash
 # Clone the repo
-git clone https://github.com/<your-username>/d-doss.git
+git clone https://github.com/lucifer14333/D-Dos.git
 
 # Navigate into the project directory
 cd d-ddos
