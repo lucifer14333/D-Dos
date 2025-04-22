@@ -23,7 +23,9 @@ $ pkg install git
 
 $ pkg install figlet
 
-$ git clone https://github.com/gamkers/GAMKERS-DDOS.git
+$ git clone https://github.com/lucifer14333/D-Dos.git
+
+# Navigate into the project directory
 
 $ cd Lucifer-DDOS
 
@@ -31,11 +33,6 @@ $ chmod +x Lucifer-DDOS.py
 
 $ python2 Lucifer-DDOS.py
 
-# Clone the repo
-git clone https://github.com/lucifer14333/D-Dos.git
 
-# Navigate into the project directory
-cd d-ddos
 
-# Run the simulation
-python3 Lucifer-DDOS.py
+
